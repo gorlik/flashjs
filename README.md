@@ -31,6 +31,7 @@ can be found in the bin directory.
 
 libusb-1.0 for windows is still in development stage and there are known issues with 
 version pbr301 to pbr311. The binaries are statically linked to version pbr299.
+
 Using flashjs
 ----------------------------
 erasing the flash:
