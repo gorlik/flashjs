@@ -9,12 +9,12 @@ platform supported by libusb.
 Features
 ------------------
 Not many features, just the bare minumum.
-# read S19 files
-# mass erase (restore to factory new condition)
-# partial erase (preserve the configuration block)
-# flash program/upgrade (upgrade will skip any data in the configuration block)
-# check the CRC of a flashed image
-# reboot the MCU 
+- read S19 files
+- mass erase (restore to factory new condition)
+- partial erase (preserve the configuration block)
+- flash program/upgrade (upgrade will skip any data in the configuration block)
+- check the CRC of a flashed image
+- reboot the MCU 
 
 Building flashjs
 ----------------------------
